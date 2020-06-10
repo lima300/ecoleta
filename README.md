@@ -9,19 +9,19 @@
 <p align="center">
 
   <a href="https://github.com/lima300/ecoleta/stargazers">
-    <img alt="stars" src="https://img.shields.io/github/stars/liam300/ecoleta">
+    <img alt="stars" src="https://img.shields.io/github/stars/lima300/ecoleta">
   </a>
 
   <a href="https://github.com/lima300/ecoleta/issues">
-    <img alt="issues" src="https://img.shields.io/github/issues/liam300/ecoleta">
+    <img alt="issues" src="https://img.shields.io/github/issues/lima300/ecoleta">
   </a>
 
   <a href="https://github.com/lima300/ecoleta/pulls">
-    <img alt="forks" src="https://img.shields.io/github/forks/liam300/Ecoleta">
+    <img alt="forks" src="https://img.shields.io/github/forks/lima300/Ecoleta">
   </a>
 
   <a href="https://github.com/lima300/ecoleta/blob/master/LICENSE">
-    <img alt="license" src="https://img.shields.io/github/license/fnoquiq/ecoleta">
+    <img alt="license" src="https://img.shields.io/github/license/lima300/ecoleta">
   </a>
 
 </p>
